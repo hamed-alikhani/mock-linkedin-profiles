@@ -13,4 +13,17 @@ This repository hosts **40 realistic mock LinkedIn profile pages** created solel
 
 ## 📂 Profiles:
 
-- Each mock profile page is accessible directly via:
+- Each mock profile page is accessible directly via: (for like prifile #11)
+  
+  https://github.com/hamed-alikhani/mock-linkedin-profiles/blob/main/mock_linkedin_profiles/mock_profile_11.html
+
+
+## 📥 Excel Sheet:
+
+- An Excel file summarizing profile details and LinkedIn links is provided (`mock_profiles_summary.xlsx`).
+
+## ⚠️ Disclaimer:
+
+These profiles are entirely fictional and are meant for demonstration and educational purposes only. Any resemblance to actual persons or events is purely coincidental.
+
+  
